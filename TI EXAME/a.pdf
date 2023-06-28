@@ -1,0 +1,41 @@
+# Animais
+
+## Apresentação do projeto
+
+### Resumo do tema escolhido 
+
+O nosso grupo escolheu o tema dos gorilas, relacionado com a temática dos animais, devido à combinação dos interesses individuais dos membros. O objetivo deste trabalho é fornecer aos utilizadores informações sobre várias espécies de gorilas, seu comportamento, habitat e conservação. Ao realizar esta pesquisa, esperamos que as pessoas possam compreender mais facilmente a importância dos gorilas na vida selvagem, despertando um maior interesse em aprender sobre essas incríveis criaturas. Através do nosso site, pretendemos apresentar o trabalho de especialistas em gorilas, como pesquisadores, conservacionistas e cientistas. Vamos abordar tanto as espécies de gorilas mais conhecidas, como o gorila-das-montanhas e o gorila-das-planícies, quanto outras espécies menos conhecidas, com o objetivo de apresentar ao leitor a diversidade e singularidade desses primatas fascinantes. Também vamos explorar um pouco da história da pesquisa e conservação dos gorilas.
+
+Em resumo, o nosso objetivo é criar um website que transmita o máximo de conhecimento possível sobre os gorilas, com base na pesquisa realizada para a elaboração deste trabalho, e que seja facilmente compreensível para os leitores interessados nesses primatas magníficos.
+
+## Interface com o utilizador 
+
+
+
+
+### Descrição do produto
+
+Ao entrar no site, na parte superior há uma barra de navegação (navbar) contendo o logotipo do site e um menu de navegação com links para diferentes seções do site, como "Características", "Distribuição", "Ameaças e Conservação", e um botão "Sign Up".
+
+Logo abaixo da barra de navegação, encontra-se a seção principal (main) com informações sobre os gorilas, incluindo um título, um subtítulo, um texto descritivo e um botão para acessar a seção de "Características".
+2ºPagina--
+A seção principal é intitulada "CARACTERÍSTICAS" e fornece informações sobre os gorilas. Descreve aspectos como tamanho e peso, estrutura física, pelagem e características faciais dos gorilas. As informações são apresentadas de forma concisa e clara, permitindo que os visitantes aprendam sobre esses animais incríveis.
+3ºPagina--
+A seção principal desta página é intitulada "DISTRIBUIÇÃO" e apresenta uma tabela com detalhes sobre a distribuição geográfica das espécies e subespécies de gorilas. A tabela contém duas colunas principais: "Espécie/Subespécie" e "Distribuição Geográfica".
+A primeira entrada na tabela é para os gorilas-das-planícies, que têm distribuição em florestas tropicais e subtropicais da África Central, incluindo países como Camarões, Gabão, República do Congo, República Democrática do Congo e Guiné Equatorial. Em seguida, há uma entrada para os gorilas-das-montanhas, que habitam regiões montanhosas da África Central, incluindo o Parque Nacional de Virunga (República Democrática do Congo), o Parque Nacional dos Vulcões (Ruanda) e o Parque Nacional de Mgahinga Gorilla (Uganda). Essas informações fornecem uma visão geral da distribuição geográfica dessas espécies de gorilas.
+4ºPagina--
+Um contêiner principal com o conteúdo central do site com título "AMEAÇAS E CONSERVAÇÃO", contem vários parágrafos que discutem as ameaças à sobrevivência dos gorilas, como perda de habitat e caça ilegal, bem como estratégias de conservação, como estabelecimento de parques nacionais, reservas e ecoturismo responsável.
+
+### Ligação para o site do grupo da netlify
+
+[Netlify](https://gorila-project-inf22tig14.netlify.app)
+
+
+### Regras de utilização 
+
+
+Bem-vindo ao nosso site dedicado aos gorilas! Aqui, você encontrará um tesouro de informações fascinantes sobre esses magníficos primatas. Não é necessário nenhum requisito especial para desfrutar do nosso conteúdo, exceto sua curiosidade e vontade de explorar o mundo incrível da vida selvagem.
+
+### Ajuda à navegação
+
+O site esta o mais intuitivo para que consiga acessar de forma facil
